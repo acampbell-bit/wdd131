@@ -107,8 +107,8 @@ p {
 }
 
 .paragraph2 {
-    padding-right: 10rem;
-    margin-right: -135px;
+    /* padding-right: 10rem;
+    margin-right: -135px; */
     border: var(--border)
 }
 
