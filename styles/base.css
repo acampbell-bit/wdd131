@@ -85,7 +85,7 @@ main {
     display: grid;
     grid-template-columns: 3fr 1fr;
     grid-template-rows: auto 1fr;
-    gap: .5rem solid;
+    gap: .5rem solid black;
 }
 
 h1 {
